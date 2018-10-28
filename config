@@ -4,7 +4,7 @@
 #
 
 #
-# Compiler: gcc (Gentoo 8.2.0-r3 p1.3) 8.2.0
+# Compiler: gcc (Gentoo 8.2.0-r4 p1.5) 8.2.0
 #
 CONFIG_CC_IS_GCC=y
 CONFIG_GCC_VERSION=80200
@@ -1060,9 +1060,7 @@ CONFIG_BLK_DEV_LOOP_MIN_COUNT=8
 #
 # NVME Support
 #
-CONFIG_NVME_CORE=y
-CONFIG_BLK_DEV_NVME=y
-# CONFIG_NVME_MULTIPATH is not set
+# CONFIG_BLK_DEV_NVME is not set
 # CONFIG_NVME_FC is not set
 
 #
