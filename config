@@ -1,10 +1,10 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.20.0-gentoo Kernel Configuration
+# Linux/x86 4.20.1-gentoo Kernel Configuration
 #
 
 #
-# Compiler: gcc (Gentoo 8.2.0-r5 p1.6) 8.2.0
+# Compiler: gcc (Gentoo 8.2.0-r6 p1.7) 8.2.0
 #
 CONFIG_CC_IS_GCC=y
 CONFIG_GCC_VERSION=80200
@@ -2853,6 +2853,7 @@ CONFIG_USB_UAS=y
 # CONFIG_USB_ISP1301 is not set
 # CONFIG_USB_GADGET is not set
 # CONFIG_TYPEC is not set
+# CONFIG_USB_ROLE_SWITCH is not set
 # CONFIG_USB_LED_TRIG is not set
 # CONFIG_USB_ULPI_BUS is not set
 # CONFIG_UWB is not set
