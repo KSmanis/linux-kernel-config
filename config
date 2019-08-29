@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 5.2.9-gentoo Kernel Configuration
+# Linux/x86 5.2.11-gentoo Kernel Configuration
 #
 
 #
@@ -285,12 +285,15 @@ CONFIG_SCHED_OMIT_FRAME_POINTER=y
 # CONFIG_MSTEAMROLLER is not set
 # CONFIG_MEXCAVATOR is not set
 # CONFIG_MZEN is not set
+# CONFIG_MZEN2 is not set
 # CONFIG_MPSC is not set
 # CONFIG_MATOM is not set
 # CONFIG_MCORE2 is not set
 # CONFIG_MNEHALEM is not set
 # CONFIG_MWESTMERE is not set
 # CONFIG_MSILVERMONT is not set
+# CONFIG_MGOLDMONT is not set
+# CONFIG_MGOLDMONTPLUS is not set
 # CONFIG_MSANDYBRIDGE is not set
 # CONFIG_MIVYBRIDGE is not set
 # CONFIG_MHASWELL is not set
@@ -299,6 +302,7 @@ CONFIG_SCHED_OMIT_FRAME_POINTER=y
 # CONFIG_MSKYLAKEX is not set
 # CONFIG_MCANNONLAKE is not set
 # CONFIG_MICELAKE is not set
+# CONFIG_MCASCADELAKE is not set
 # CONFIG_GENERIC_CPU is not set
 CONFIG_MNATIVE=y
 CONFIG_X86_INTERNODE_CACHE_SHIFT=6
