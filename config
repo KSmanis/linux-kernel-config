@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 5.7.5-gentoo Kernel Configuration
+# Linux/x86 5.7.6-gentoo Kernel Configuration
 #
 
 #
@@ -2227,6 +2227,7 @@ CONFIG_POWER_SUPPLY_HWMON=y
 # CONFIG_CHARGER_GPIO is not set
 # CONFIG_CHARGER_LT3651 is not set
 # CONFIG_CHARGER_BQ2415X is not set
+# CONFIG_CHARGER_BQ24257 is not set
 # CONFIG_CHARGER_BQ24735 is not set
 # CONFIG_CHARGER_BQ25890 is not set
 # CONFIG_CHARGER_SMB347 is not set
