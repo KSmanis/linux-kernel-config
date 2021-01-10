@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 5.10.5-gentoo Kernel Configuration
+# Linux/x86 5.10.6-gentoo Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="gcc (Gentoo 9.3.0-r2 p4) 9.3.0"
 CONFIG_CC_IS_GCC=y
@@ -3921,6 +3921,7 @@ CONFIG_OVERLAY_FS_REDIRECT_ALWAYS_FOLLOW=y
 # CONFIG_OVERLAY_FS_INDEX is not set
 # CONFIG_OVERLAY_FS_XINO_AUTO is not set
 # CONFIG_OVERLAY_FS_METACOPY is not set
+# CONFIG_SHIFT_FS is not set
 
 #
 # Caches
