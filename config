@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 5.11.15-gentoo Kernel Configuration
+# Linux/x86 5.11.16-gentoo Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="gcc (Gentoo 10.2.0-r5 p6) 10.2.0"
 CONFIG_CC_IS_GCC=y
@@ -321,7 +321,8 @@ CONFIG_SCHED_OMIT_FRAME_POINTER=y
 # CONFIG_MCOOPERLAKE is not set
 # CONFIG_MTIGERLAKE is not set
 # CONFIG_GENERIC_CPU is not set
-CONFIG_MNATIVE=y
+CONFIG_MNATIVE_INTEL=y
+# CONFIG_MNATIVE_AMD is not set
 CONFIG_X86_INTERNODE_CACHE_SHIFT=6
 CONFIG_X86_L1_CACHE_SHIFT=6
 CONFIG_X86_INTEL_USERCOPY=y
