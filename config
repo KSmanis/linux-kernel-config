@@ -1784,17 +1784,8 @@ CONFIG_MDIO_DEVRES=y
 # CONFIG_PCS_XPCS is not set
 # end of PCS device drivers
 
-CONFIG_PPP=y
-# CONFIG_PPP_BSDCOMP is not set
-# CONFIG_PPP_DEFLATE is not set
-# CONFIG_PPP_FILTER is not set
-# CONFIG_PPP_MPPE is not set
-# CONFIG_PPP_MULTILINK is not set
-# CONFIG_PPPOE is not set
-CONFIG_PPP_ASYNC=y
-# CONFIG_PPP_SYNC_TTY is not set
+# CONFIG_PPP is not set
 # CONFIG_SLIP is not set
-CONFIG_SLHC=y
 # CONFIG_USB_NET_DRIVERS is not set
 CONFIG_WLAN=y
 # CONFIG_WLAN_VENDOR_ADMTEK is not set
